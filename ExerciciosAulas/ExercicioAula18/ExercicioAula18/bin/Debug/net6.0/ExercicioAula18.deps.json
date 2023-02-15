@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioAula18/1.0.0": {
+        "runtime": {
+          "ExercicioAula18.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioAula18/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

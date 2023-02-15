@@ -1,0 +1,15 @@
+C:\Estudos C#\ExercicioAula18\ExercicioAula18\obj\Debug\net6.0\ExercicioAula18.csproj.AssemblyReference.cache
+C:\Estudos C#\ExercicioAula18\ExercicioAula18\obj\Debug\net6.0\ExercicioAula18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos C#\ExercicioAula18\ExercicioAula18\obj\Debug\net6.0\ExercicioAula18.AssemblyInfoInputs.cache
+C:\Estudos C#\ExercicioAula18\ExercicioAula18\obj\Debug\net6.0\ExercicioAula18.AssemblyInfo.cs
+C:\Estudos C#\ExercicioAula18\ExercicioAula18\obj\Debug\net6.0\ExercicioAula18.csproj.CoreCompileInputs.cache
+C:\Estudos C#\ExercicioAula18\ExercicioAula18\bin\Debug\net6.0\ExercicioAula18.exe
+C:\Estudos C#\ExercicioAula18\ExercicioAula18\bin\Debug\net6.0\ExercicioAula18.deps.json
+C:\Estudos C#\ExercicioAula18\ExercicioAula18\bin\Debug\net6.0\ExercicioAula18.runtimeconfig.json
+C:\Estudos C#\ExercicioAula18\ExercicioAula18\bin\Debug\net6.0\ExercicioAula18.dll
+C:\Estudos C#\ExercicioAula18\ExercicioAula18\bin\Debug\net6.0\ExercicioAula18.pdb
+C:\Estudos C#\ExercicioAula18\ExercicioAula18\obj\Debug\net6.0\ExercicioAula18.dll
+C:\Estudos C#\ExercicioAula18\ExercicioAula18\obj\Debug\net6.0\refint\ExercicioAula18.dll
+C:\Estudos C#\ExercicioAula18\ExercicioAula18\obj\Debug\net6.0\ExercicioAula18.pdb
+C:\Estudos C#\ExercicioAula18\ExercicioAula18\obj\Debug\net6.0\ExercicioAula18.genruntimeconfig.cache
+C:\Estudos C#\ExercicioAula18\ExercicioAula18\obj\Debug\net6.0\ref\ExercicioAula18.dll

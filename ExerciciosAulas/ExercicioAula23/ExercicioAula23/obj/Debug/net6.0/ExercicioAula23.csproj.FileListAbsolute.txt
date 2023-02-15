@@ -1,0 +1,15 @@
+C:\Estudos C#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ExercicioAula23.csproj.AssemblyReference.cache
+C:\Estudos C#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ExercicioAula23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos C#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ExercicioAula23.AssemblyInfoInputs.cache
+C:\Estudos C#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ExercicioAula23.AssemblyInfo.cs
+C:\Estudos C#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ExercicioAula23.csproj.CoreCompileInputs.cache
+C:\Estudos C#\ExercicioAula23\ExercicioAula23\bin\Debug\net6.0\ExercicioAula23.exe
+C:\Estudos C#\ExercicioAula23\ExercicioAula23\bin\Debug\net6.0\ExercicioAula23.deps.json
+C:\Estudos C#\ExercicioAula23\ExercicioAula23\bin\Debug\net6.0\ExercicioAula23.runtimeconfig.json
+C:\Estudos C#\ExercicioAula23\ExercicioAula23\bin\Debug\net6.0\ExercicioAula23.dll
+C:\Estudos C#\ExercicioAula23\ExercicioAula23\bin\Debug\net6.0\ExercicioAula23.pdb
+C:\Estudos C#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ExercicioAula23.dll
+C:\Estudos C#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\refint\ExercicioAula23.dll
+C:\Estudos C#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ExercicioAula23.pdb
+C:\Estudos C#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ExercicioAula23.genruntimeconfig.cache
+C:\Estudos C#\ExercicioAula23\ExercicioAula23\obj\Debug\net6.0\ref\ExercicioAula23.dll
